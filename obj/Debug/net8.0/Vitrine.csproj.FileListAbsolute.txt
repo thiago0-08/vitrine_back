@@ -1,0 +1,845 @@
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\appsettings.json
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Vitrine.exe
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Vitrine.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
+C:\Users\Aula\source\repos\Vitrine\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CopyComplete
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.Development.json
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.json
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.exe
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Humanizer.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
+D:\Nova pasta\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.Up2Date
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.Development.json
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.json
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.exe
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Humanizer.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
+D:\vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CopyComplete
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.json
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.exe
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.Up2Date
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+C:\Users\Aula\Desktop\Vitrine Backend\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.Development.json
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.json
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.exe
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Humanizer.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.Up2Date
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+G:\Vitrine vue\Vitrine Backend\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.Development.json
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\appsettings.json
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.exe
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Humanizer.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.Up2Date
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.exe
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Humanizer.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
+G:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.sourcelink.json
+D:\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.Up2Date
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.exe
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.deps.json
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.runtimeconfig.json
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Vitrine.pdb
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.Vitrine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.build.Vitrine.props
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vitrine.props
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vitrine.props
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\scopedcss\bundle\Vitrine.styles.css
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.csproj.Up2Date
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\refint\Vitrine.dll
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.pdb
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\Vitrine.genruntimeconfig.cache
+C:\Users\Gamer\Desktop\vitrine com banco\Vitrine Backend\Vitrine\obj\Debug\net8.0\ref\Vitrine.dll
